@@ -1,0 +1,133 @@
+body{
+    font-family: montserrat;
+}
+h1{
+    font-family: montserrat;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: mintcream;
+    margin-bottom: 5%;
+}
+h2{
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+nav{
+    margin-bottom: ;
+}
+
+h3{
+    font-size: 1.5rem;
+    font-weight: 600;
+   
+}
+p{
+    color: #8f8f8f;
+}
+hr{
+    border-style: dotted;
+    width: 100px;
+    border-width: 5px;
+    border-top: none;
+    color: grey;
+    margin-bottom: 100px;
+}
+.bhaisa{
+    height: 83px;
+}
+.dir{
+    border-radius: 50%;
+}
+.featureicon{
+    font-size: 40px;
+    color: #78c4d4;
+    margin-bottom: 10px;
+}
+.nav-link{
+    margin: 20px;
+    font-size: 1.2rem;
+   
+}
+.featureicon:hover{
+    color: #ff4c88;
+}
+
+
+.container-fluid{
+    padding: 3% 15%;
+}
+.contact{
+    text-align: center;
+    margin-top: 100px;
+}
+.carousel-item{
+    /* padding: 7% 15%; */
+    
+}
+
+
+.proice{
+    margin-top: 5%;
+}
+.UIT{
+    position: absolute;
+    width: 100%; 
+    border-radius: 5%;
+    margin-bottom: 
+    
+    
+}
+
+#rec{
+    text-align: center;
+    padding:5% 5%;
+}
+
+#Events{
+    background-color: #78c4d4;
+    text-align: center;
+    color: #fff;
+    
+    
+    
+}
+
+#features{
+    position: relative;
+    
+    
+}
+
+#footer{
+    padding: 5%;
+    text-align: center;
+    background-color: #78c4d4;
+    color: #ffff;
+}
+
+#title{
+    background-color: #78c4d4;
+    
+}
+#about{
+    text-align: center;
+}
+#courses{
+    text-align: center;
+    margin-top: 40px;
+}
+@media (max-width:991px){
+    h1{
+        font-size: 3rem;
+    }
+    h2{
+        font-size: 2.5rem;
+    }
+    #title{
+        text-align: center;
+    }
+    
+}
